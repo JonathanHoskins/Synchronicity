@@ -1,6 +1,6 @@
 .container{
     margin: auto;
-    max-width: 500px;
+    max-width: 1200px;
     font-family: sans-serif;
 }
 .heading{
@@ -17,3 +17,7 @@
 .nav-link-text{
     color: black;
 }
+body {
+    background-image: url("/src/images/Synchronicity logo.png");
+    background-color: #949494;
+   }
