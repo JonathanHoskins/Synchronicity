@@ -6,7 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 const IndexPage = () => {
   return (
-    <Layout pageTitle = "Home Page">
+    <Layout pageTitle = "Synchronicity Festival">
       <img src={logo} class="img-fluid" alt="Responsive image" />
     </Layout>
   )
