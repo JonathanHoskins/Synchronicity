@@ -6,7 +6,7 @@ import map from '/src/images/map.png'
 const MapPage = () => {
     return (
         <Layout pageTitle="Map">
-            <img src={map} />
+            <img src={map} class="img-fluid" />
         </Layout>
     )
 }
