@@ -24,7 +24,7 @@ const Layout = ({ pageTitle, children }) => {
                         <a class="nav-item nav-link active" href="/">Home <span class="sr-only">(current)</span></a>
                         <a class="nav-item nav-link" href="https://theticketing.co/events/synchronicity">Tickets</a>
                         <a class="nav-item nav-link" href="https://www.facebook.com/events/530840468235962">Facebook Event</a>
-                        <a class="nav-item nav-link" href="/map">Map</a>
+                        <Link to="/map" class="nav-item nav-link">Map</Link>
                     </div>
                 </div>
             </nav>
