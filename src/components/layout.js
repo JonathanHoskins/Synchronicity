@@ -21,7 +21,7 @@ const Layout = ({ pageTitle, children }) => {
                 
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav">
-                        <a class="nav-item nav-link active" href="/">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-item nav-link" href="/">Home</a>
                         <a class="nav-item nav-link" href="https://theticketing.co/events/synchronicity">Tickets</a>
                         <a class="nav-item nav-link" href="https://www.facebook.com/events/530840468235962">Facebook Event</a>
                         <Link to="/map" className="nav-item nav-link">Map</Link>
