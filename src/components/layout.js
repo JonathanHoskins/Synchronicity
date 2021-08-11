@@ -26,6 +26,7 @@ const Layout = ({ pageTitle, children }) => {
                         <a class="nav-item nav-link" href="https://www.facebook.com/events/530840468235962">Facebook Event</a>
                         <Link to="/map" className="nav-item nav-link">Map</Link>
                         <Link to="/about" className="nav-item nav-link">Info</Link>
+                        <a class="nav-item nav-link" href="https://docs.google.com/forms/d/e/1FAIpQLScuwzJ4zV2wV9ZJzDnzPG_9c9PsO0z3CqgxbwIYLAcQpDIjFw/viewform" className="nav-item nav-link">Vendor Application</a>
                     </div>
                 </div>
             </nav>
