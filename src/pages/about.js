@@ -47,7 +47,7 @@ Contact has been made with such individuals--a group of kindred souls, a sort of
                             <b><a href="https://www.facebook.com/DeeZtunes">Deez</a></b><br />
                             An electronic music producer currently residing in Boston, MA. I produce a variety of genres and styles including Glitch-Hop, Drum & Bass, Dubstep and many more. My goal is to make captivating music that pushes the listener out of their comfort zone and into the unknown.<br />
                             <br />
-                            <br />
+                            
                             <b><a href="https://www.facebook.com/Ployd-149268388447648">Ployd</a></b><br />
                             In the great city of Atlanta there lives a man. A man with a beard. A man named Ployd. If you have spent any time frequenting bass music shows in Atlanta then chances are you've heard and are possibly homeys with Ployd aka Bass Jesus aka Trap Jesus aka The Godfather. Although recently named "Atlanta's Best DJ" in Creative Loafing (readers choice), Ployd has been on the grind playing clubs since 06 playing with a slew of the top names in electronica from Rusko, Excision, Reid Speed, Mayhem, and Borgore to Zoogma, Big Gigantic, Papadosio and many many more.
                             Without a doubt he has played a large influential part in the Southeastern scene helping to start Atlanta's first two Dubstep collectives; Atlanta Dubstep and Wobble House. Currently Independent, Ployd bounces from city to city in the southeast heating up dance floors with his versatile and tasteful DJ sets. Coming soon to a club, festival, ballroom, bingo game, or bonfire near you.
@@ -55,18 +55,25 @@ Contact has been made with such individuals--a group of kindred souls, a sort of
                             <br />
                             
                                                        
-                            <a href="https://www.facebook.com/thesickish">Sickish</a><br />
-                            <a href="https://www.facebook.com/sokolsounds">Sokol Sound</a><br />
                             <a href="https://www.facebook.com/brotha.burks.90">Brotha Burks</a><br />
                             <a href="https://www.facebook.com/Erastep">Era-Step</a><br />
                             <a href="https://www.facebook.com/HappyCamperBass/">Happy Camper</a><br />
+                            <a href="https://www.facebook.com/thesickish">Sickish</a><br />
+                            <a href="https://www.facebook.com/sokolsounds">Sokol Sound</a><br />
                             <a href="https://www.facebook.com/SpinChilla00">SpinChilla</a><br />
                             <a href="https://www.facebook.com/WerDOfficial">Werd</a><br />
                             <br />
                             <b>HOUSE Stage:</b><br />
                             <br />
+                            
+                            <b><a href="http://www.brunobrowning.com/">Bruno Browning</a></b><br />
+                            Bruno is first and foremost a DJ and he will be the first to tell you that behind the decks is where he is truly at peace. Browning is known among many house fans as a certified party rocker and if there is any doubt just ask anyone that has seen him live. He has moved dance floors in Chicago, San Diego, San Francisco, Kansas City, Denver, LA, and Knoxville and has played with house heavyweights such as Mark Farina, DJ Sneak, DJ Dan, DJ Heather, Colette, Paul Johnson, Wally Callerio, T Mixwell and Matthew Brian.<br />
+                            
+                            <br />
                             <a href="https://www.facebook.com/Dorianhouse13">Dorian</a><br />
                             <a href="https://www.facebook.com/mysteryboxdj">Mystery Box</a><br />
+                            <a href="https://www.pauloventura.org/">Paulo Ventura</a><br />
+                            <a href="https://www.facebook.com/rexneumusic">REX NEU</a><br />
                             <a href="https://www.facebook.com/crystlclr">Sphynx</a><br />
                             <a href="https://soundcloud.com/user-395137475">Thunderous Bandit</a><br />
                             <a href="https://www.facebook.com/twoshoecrew">Two Shoe Crew</a><br />
