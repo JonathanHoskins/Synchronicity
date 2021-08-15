@@ -1,6 +1,9 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
-import Container from 'react-bootstrap/Container';
+import Container from 'react-bootstrap/Container'
+import favicon from '../images/favicon.ico'
+import Helmet from 'react-helmet'
+
 import{ 
     body
 } from './layout.module.css'
@@ -8,6 +11,11 @@ import{
 const Layout = ({ pageTitle, children }) => {
     return (
         <main className={Container}>
+            
+            <Helmet>
+                <link rel="icon" href={favicon} />
+            </Helmet>
+            
             <title>{pageTitle}</title>
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
             
