@@ -58,12 +58,12 @@ Contact has been made with such individuals--a group of kindred souls, a sort of
                             <a href="https://www.facebook.com/brotha.burks.90">Brotha Burks</a><br />
                             <a href="https://www.facebook.com/Erastep">Era-Step</a><br />
                             <a href="https://www.facebook.com/HappyCamperBass/">Happy Camper</a><br />
-                            Malicious<br />
+                            <a href="https://www.facebook.com/MaliciousATL">Malicious</a><br />
                             <a href="https://www.facebook.com/thesickish">Sickish</a><br />
                             <a href="https://www.facebook.com/sokolsounds">Sokol Sound</a><br />
                             <a href="https://www.facebook.com/SpinChilla00">SpinChilla</a><br />
                             Symetree<br />
-                            Turtle<br />
+                            <a href="https://www.facebook.com/ian.vanags">Turtle</a><br />
                             <a href="https://www.facebook.com/WerDOfficial">Werd</a><br />
                             <br />
                             <b>HOUSE Stage:</b><br />
@@ -73,19 +73,19 @@ Contact has been made with such individuals--a group of kindred souls, a sort of
                             Bruno is first and foremost a DJ and he will be the first to tell you that behind the decks is where he is truly at peace. Browning is known among many house fans as a certified party rocker and if there is any doubt just ask anyone that has seen him live. He has moved dance floors in Chicago, San Diego, San Francisco, Kansas City, Denver, LA, and Knoxville and has played with house heavyweights such as Mark Farina, DJ Sneak, DJ Dan, DJ Heather, Colette, Paul Johnson, Wally Callerio, T Mixwell and Matthew Brian.<br />
                             
                             <br />
-                            Ben Lee<br />
+                            <a href="https://www.facebook.com/profile.php?id=503336392">Ben Lee</a><br />
                             <a href="https://www.facebook.com/Dorianhouse13">Dorian</a><br />
-                            Enterline<br />
+                            <a href="https://www.facebook.com/Rob3nterline/">Enterline</a><br />
                             Halo<br />
-                            Hypnocat<br />
-                            Kevin Bell<br />
+                            <a href="https://www.facebook.com/hypnocat242">Hypnocat</a><br />
+                            <a href="https://www.facebook.com/kevinbellmusic">Kevin Bell</a><br />
                             <a href="https://www.facebook.com/mysteryboxdj">Mystery Box</a><br />
                             <a href="https://www.pauloventura.org/">Paulo Ventura</a><br />
                             <a href="https://www.facebook.com/rexneumusic">REX NEU</a><br />
                             Sam-me<br />
                             <a href="https://www.facebook.com/crystlclr">Sphynx</a><br />
                             <a href="https://soundcloud.com/user-395137475">Thunderous Bandit</a><br />
-                            Tryptone<br />
+                            <a href="https://www.facebook.com/Tryptone-111549547203628/">Tryptone</a><br />
                             <a href="https://www.facebook.com/twoshoecrew">Two Shoe Crew</a><br />
                             
                             </div>
