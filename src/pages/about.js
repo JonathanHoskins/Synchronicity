@@ -44,7 +44,7 @@ Contact has been made with such individuals--a group of kindred souls, a sort of
                             
                             <b>BASS stage:</b><br />
                             <br />
-                            <b><a href="https://www.facebook.com/DeeZtunes">Deez</a></b><br />
+                            <b><a href="https://www.facebook.com/DeeZtunes">DeeZ</a></b><br />
                             An electronic music producer currently residing in Boston, MA. I produce a variety of genres and styles including Glitch-Hop, Drum & Bass, Dubstep and many more. My goal is to make captivating music that pushes the listener out of their comfort zone and into the unknown.<br />
                             <br />
                             
