@@ -1,6 +1,6 @@
 import * as React from 'react'
 import Layout from '../components/layout'
-import logo from '/src/images/FB Event Flyer top and middle bill logos new.png'
+import logo from '/src/images/FB Event Flyer top and middle bill logos new final.png'
 import { Link } from 'gatsby'
 import "bootstrap/dist/css/bootstrap.min.css";
 
