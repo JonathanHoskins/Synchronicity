@@ -21,7 +21,7 @@ const Layout = ({ pageTitle, children }) => {
             <meta property="og:title" content="Synchronicity Festival" />
             <meta property="og:type" content="website" />
             <meta property="og:url" content="https://www.synchronicityfestival.us" />
-            <meta property="og:image" content="/src/images/FB Event Flyer w entities.png" />
+            <meta property="og:image" content="https://www.synchronicityfestival.us/src/images/FB Event Flyer w entities.png" />
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
             
             
