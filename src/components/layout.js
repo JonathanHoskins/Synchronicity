@@ -18,7 +18,7 @@ const Layout = ({ pageTitle, children }) => {
                 <meta property="og:title" content="Synchronicity Festival" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="https://www.synchronicityfestival.us" />
-                <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/JonathanHoskins/Synchronicity/main/src/images/FB%20Event%20Flyer%20w%20entities.png" />
+                <meta property="og:image" content={ domain + "/src/images/FB Event Flyer w entities.png"} />
             </Helmet>
             
             <title>{pageTitle}</title>

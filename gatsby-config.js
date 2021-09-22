@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
+    siteUrl: "https://www.synchronicityfestival.us",
     title: "Synchronicity",
   },
-  plugins: [],
+  plugins: [`gatsby-plugin-open-graph-images`],
 };
